@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Quorum Maker</dc:title>
+        <dc:title>Node Maker</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,7 +49,7 @@
      pagecolor="#ffffff" />
   <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
   <title
-     id="title187">Quorum Maker</title>
+     id="title187">Node Maker</title>
   <desc
      id="desc189">Created with Sketch.</desc>
   <defs
